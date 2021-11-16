@@ -1,7 +1,7 @@
-package com.ujjaval.ecommerce.authenticationservice.config;
+package com.tuhungkien.ecommerce.authenticationservice.config;
 
-import com.ujjaval.ecommerce.authenticationservice.filter.JwtRequestFilter;
-import com.ujjaval.ecommerce.authenticationservice.service.CustomUserDetailsService;
+import com.tuhungkien.ecommerce.authenticationservice.filter.JwtRequestFilter;
+import com.tuhungkien.ecommerce.authenticationservice.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,12 +1,12 @@
-package com.ujjaval.ecommerce.commondataservice.dao.sql.info.impl;
+package com.tuhungkien.ecommerce.commondataservice.dao.sql.info.impl;
 
-import com.ujjaval.ecommerce.commondataservice.dao.sql.info.queryhelpers.ProductQueryHelper;
-import com.ujjaval.ecommerce.commondataservice.dao.sql.info.queryhelpers.context.ParamsToQueryContext;
-import com.ujjaval.ecommerce.commondataservice.dto.*;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ProductInfo;
-import com.ujjaval.ecommerce.commondataservice.model.FilterAttributesResponse;
-import com.ujjaval.ecommerce.commondataservice.model.HomeTabsDataResponse;
-import com.ujjaval.ecommerce.commondataservice.utils.resulttransformers.ListResultTransformer;
+import com.tuhungkien.ecommerce.commondataservice.dao.sql.info.queryhelpers.ProductQueryHelper;
+import com.tuhungkien.ecommerce.commondataservice.dao.sql.info.queryhelpers.context.ParamsToQueryContext;
+import com.tuhungkien.ecommerce.commondataservice.dto.*;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.info.ProductInfo;
+import com.tuhungkien.ecommerce.commondataservice.model.FilterAttributesResponse;
+import com.tuhungkien.ecommerce.commondataservice.model.HomeTabsDataResponse;
+import com.tuhungkien.ecommerce.commondataservice.utils.resulttransformers.ListResultTransformer;
 import org.javatuples.Pair;
 
 import javax.persistence.EntityManager;

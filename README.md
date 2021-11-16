@@ -74,7 +74,7 @@ eCommerce application based on the microservices architecture built using Spring
 
 3. Set the CORS in the backend service as shown below.
    ```
-      go to file on this path => server/common-data-service/src/main/java/com/ujjaval/ecommerce/commondataservice/config/CorsConfig.java
+      go to file on this path => server/common-data-service/src/main/java/com/tuhungkien/ecommerce/commondataservice/config/CorsConfig.java
       
       public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**").allowedOrigins(<Add your client host URL string here>)

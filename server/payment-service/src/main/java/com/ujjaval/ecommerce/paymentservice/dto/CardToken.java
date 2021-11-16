@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.paymentservice.dto;
+package com.tuhungkien.ecommerce.paymentservice.dto;
 
 import lombok.*;
 

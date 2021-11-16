@@ -1,4 +1,4 @@
-package com.ujjaval.ecommerce.commondataservice.service.interfaces;
+package com.tuhungkien.ecommerce.commondataservice.service.interfaces;
 
 public interface LoadFakeDataService {
 

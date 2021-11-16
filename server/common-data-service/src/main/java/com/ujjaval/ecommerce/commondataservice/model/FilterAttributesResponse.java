@@ -1,7 +1,7 @@
-package com.ujjaval.ecommerce.commondataservice.model;
+package com.tuhungkien.ecommerce.commondataservice.model;
 
-import com.ujjaval.ecommerce.commondataservice.dto.FilterAttributesWithTotalItemsDTO;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.SortByCategory;
+import com.tuhungkien.ecommerce.commondataservice.dto.FilterAttributesWithTotalItemsDTO;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.categories.SortByCategory;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

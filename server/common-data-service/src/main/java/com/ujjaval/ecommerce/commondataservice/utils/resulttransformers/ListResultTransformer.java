@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.utils.resulttransformers;
+package com.tuhungkien.ecommerce.commondataservice.utils.resulttransformers;
 
-import com.ujjaval.ecommerce.commondataservice.dto.*;
+import com.tuhungkien.ecommerce.commondataservice.dto.*;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

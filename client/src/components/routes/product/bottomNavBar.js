@@ -79,16 +79,16 @@ export default function BottomNavBar() {
                 <div style={container.sortListItem}>SORT BY</div>
                 <List style={{padding: 0}}>
                     <ListItem style={container.sortListItem}>
-                        <ListItemText primary="Ujjaval"/>
+                        <ListItemText primary="tuhungkien"/>
                     </ListItem>
                     <ListItem style={container.sortListItem}>
-                        <ListItemText primary="Ujjaval"/>
+                        <ListItemText primary="tuhungkien"/>
                     </ListItem>
                     <ListItem style={container.sortListItem}>
-                        <ListItemText primary="Ujjaval"/>
+                        <ListItemText primary="tuhungkien"/>
                     </ListItem>
                     <ListItem style={container.sortListItem}>
-                        <ListItemText primary="Ujjaval"/>
+                        <ListItemText primary="tuhungkien"/>
                     </ListItem>
                 </List>
             </div>

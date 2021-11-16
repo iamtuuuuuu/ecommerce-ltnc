@@ -1,8 +1,8 @@
-package com.ujjaval.ecommerce.commondataservice.model;
+package com.tuhungkien.ecommerce.commondataservice.model;
 
-import com.ujjaval.ecommerce.commondataservice.dto.BrandImagesDTO;
-import com.ujjaval.ecommerce.commondataservice.dto.ApparelImagesDTO;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.images.CarouselImages;
+import com.tuhungkien.ecommerce.commondataservice.dto.BrandImagesDTO;
+import com.tuhungkien.ecommerce.commondataservice.dto.ApparelImagesDTO;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.images.CarouselImages;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

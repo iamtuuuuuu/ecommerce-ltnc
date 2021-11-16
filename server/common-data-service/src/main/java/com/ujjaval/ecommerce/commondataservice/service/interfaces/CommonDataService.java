@@ -1,11 +1,11 @@
-package com.ujjaval.ecommerce.commondataservice.service.interfaces;
+package com.tuhungkien.ecommerce.commondataservice.service.interfaces;
 
-import com.ujjaval.ecommerce.commondataservice.dto.ProductInfoDTO;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ProductInfo;
-import com.ujjaval.ecommerce.commondataservice.model.FilterAttributesResponse;
-import com.ujjaval.ecommerce.commondataservice.model.HomeTabsDataResponse;
-import com.ujjaval.ecommerce.commondataservice.model.MainScreenResponse;
-import com.ujjaval.ecommerce.commondataservice.model.SearchSuggestionResponse;
+import com.tuhungkien.ecommerce.commondataservice.dto.ProductInfoDTO;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.info.ProductInfo;
+import com.tuhungkien.ecommerce.commondataservice.model.FilterAttributesResponse;
+import com.tuhungkien.ecommerce.commondataservice.model.HomeTabsDataResponse;
+import com.tuhungkien.ecommerce.commondataservice.model.MainScreenResponse;
+import com.tuhungkien.ecommerce.commondataservice.model.SearchSuggestionResponse;
 
 import java.util.HashMap;
 import java.util.List;

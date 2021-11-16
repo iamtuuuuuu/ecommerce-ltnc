@@ -1,6 +1,6 @@
-package com.ujjaval.ecommerce.commondataservice.dto;
+package com.tuhungkien.ecommerce.commondataservice.dto;
 
-import com.ujjaval.ecommerce.commondataservice.entity.sql.info.ProductInfo;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.info.ProductInfo;
 import lombok.*;
 
 import java.io.Serializable;

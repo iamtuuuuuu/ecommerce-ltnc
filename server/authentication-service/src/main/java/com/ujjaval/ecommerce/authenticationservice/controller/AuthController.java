@@ -1,14 +1,14 @@
-package com.ujjaval.ecommerce.authenticationservice.controller;
+package com.tuhungkien.ecommerce.authenticationservice.controller;
 
-import com.ujjaval.ecommerce.authenticationservice.entity.UserInfo;
-import com.ujjaval.ecommerce.authenticationservice.model.AccountCreationRequest;
-import com.ujjaval.ecommerce.authenticationservice.model.AccountCreationResponse;
-import com.ujjaval.ecommerce.authenticationservice.model.AuthenticationRequest;
-import com.ujjaval.ecommerce.authenticationservice.model.AuthenticationResponse;
-import com.ujjaval.ecommerce.authenticationservice.service.AuthDataService;
-import com.ujjaval.ecommerce.authenticationservice.service.CustomUserDetailsService;
-import com.ujjaval.ecommerce.authenticationservice.util.JwtUtil;
-import com.ujjaval.ecommerce.authenticationservice.util.Md5Util;
+import com.tuhungkien.ecommerce.authenticationservice.entity.UserInfo;
+import com.tuhungkien.ecommerce.authenticationservice.model.AccountCreationRequest;
+import com.tuhungkien.ecommerce.authenticationservice.model.AccountCreationResponse;
+import com.tuhungkien.ecommerce.authenticationservice.model.AuthenticationRequest;
+import com.tuhungkien.ecommerce.authenticationservice.model.AuthenticationResponse;
+import com.tuhungkien.ecommerce.authenticationservice.service.AuthDataService;
+import com.tuhungkien.ecommerce.authenticationservice.service.CustomUserDetailsService;
+import com.tuhungkien.ecommerce.authenticationservice.util.JwtUtil;
+import com.tuhungkien.ecommerce.authenticationservice.util.Md5Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.InputStreamResource;
@@ -47,7 +47,7 @@ public class AuthController {
 
     @GetMapping("/test")
     public ResponseEntity<?> test() {
-        return ResponseEntity.ok("success");
+        return ResponseEntity.ok("succeasjdfhjsdss");
     }
 
     @PostMapping("/signup")

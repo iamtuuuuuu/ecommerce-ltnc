@@ -1,10 +1,10 @@
-package com.ujjaval.ecommerce.commondataservice.model;
+package com.tuhungkien.ecommerce.commondataservice.model;
 
-import com.ujjaval.ecommerce.commondataservice.dto.SearchSuggestionForThreeAttrDTO;
-import com.ujjaval.ecommerce.commondataservice.dto.SearchSuggestionForTwoAttrDTO;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
-import com.ujjaval.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
+import com.tuhungkien.ecommerce.commondataservice.dto.SearchSuggestionForThreeAttrDTO;
+import com.tuhungkien.ecommerce.commondataservice.dto.SearchSuggestionForTwoAttrDTO;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.categories.ApparelCategory;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.categories.GenderCategory;
+import com.tuhungkien.ecommerce.commondataservice.entity.sql.categories.ProductBrandCategory;
 import lombok.*;
 
 import java.io.Serializable;
